@@ -212,6 +212,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Combined searches and filters using Craft](https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/) by Jérôme Coupé/Webstoemp - `17 Feb 2016`
 - [SVG Sprites and Twig Macros in Craft CMS](https://caffeinecreations.ca/blog/svg-sprites-and-twig-macros-in-craft-cms/) by Sean Smith/Caffeine Creations - `29 June 2018`
 - [Responsive tables in Craft](https://www.thebasement.be/responsive-tables-in-craft/) by Jan D'Hollander - `10 July 2018`
+- [Macros or Partials? When to use both for keeping Craft CMS templates clean.](https://medium.com/dc-skrimshaw/craftcms-when-to-macro-2a28c348c52f) by Shawna O'Neal - `13 July 2020`
 
 ### Videos
 
